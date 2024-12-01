@@ -13,11 +13,7 @@ export default function About() {
         <meta name="description" content="Professional portfolio website showcasing projects and blogs." />
         <meta name="keywords" content="Portfolio, Web Development, APIs, Next.js" />
         <meta name="author" content="Ingrid Canola" />
-        <link
-          href="https://fonts.googleapis.com/css?family=Montserrat:400,700|Lato:400,700&display=swap"
-          rel="stylesheet"
-        />
-        <script src="https://kit.fontawesome.com/a076d05399.js" crossOrigin="anonymous" defer></script>
+
       </Head>
 
       <nav className="navbar navbar-expand-lg bg-secondary text-uppercase fixed-top" id="mainNav">
