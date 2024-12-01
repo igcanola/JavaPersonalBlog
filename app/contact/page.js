@@ -47,7 +47,7 @@ export default function Contact() {
         <br></br>
         <br></br>
         <div className="container">
-          <h1 className="title">Hi, I'm Ingrid Canola</h1>
+          <h1 className="title">Hi, It&apos;m Ingrid Canola</h1>
           <p className="subtitle">
              A Developer passionate about building efficient and scalable solutions.
           </p>
